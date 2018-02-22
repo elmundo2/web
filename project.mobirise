@@ -530,15 +530,6 @@
           "_anchor": "header3-m"
         },
         {
-          "_params": {},
-          "alias": "deltapiblockeditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapiblockeditor",
-          "_anchor": "deltapiblockeditor-r"
-        },
-        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
